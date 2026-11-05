@@ -31,6 +31,11 @@ ai-motion/
 - **[ReferralWiz](https://referralwiz.quest)** — free referral campaign builder with a live ROI calculator.
 - **[BrandWiz](https://brandwiz.quest)** — tiny business simulator that teaches brand love and word of mouth by feel.
 
+### Grok Bot templates
+
+- **[Freya: LeadBounty Campaign Builder](https://x.ai/bot/XEpqMmAqKxNYJvWk0Q980)**: sets up a LeadBounty referral program for a local business over chat. It onboards the account, proposes a starter campaign and publishes it once the owner approves.
+- **[Milou: Networking Week Scout](https://x.ai/bot/HlaoZPmdS6_GkO7lzUw2S)**: finds founder, tech and startup networking events in your city this week and shortlists them with cost and calendar conflicts. It RSVPs only after you say yes.
+
 ### Open source
 
 - **[Katana](https://github.com/drmeph/katana)** — free, private, open source iPhone app for cleaning a camera roll one swipe at a time (SwiftUI, on device only).
